@@ -1,0 +1,34 @@
+,word,label
+0,Zn(NO3)2·6H2O,reactant
+1,0.297g,null
+2,1,number
+3,mmol,amount unit
+4,were,null
+5,dissolved,operation
+6,in,null
+7,70,number
+8,mL,amount unit
+9,of,null
+10,deionized,null
+11,water,condition
+12,and,null
+13,sealed,null
+14,in,null
+15,the,null
+16,steel,null
+17,autoclave,apparatus
+18,and,null
+19,heated,operation
+20,into,null
+21,120,number
+22,°C,condition unit
+23,After,null
+24,the,null
+25,reaction,null
+26,the,null
+27,autoclave,apparatus
+28,was,null
+29,cooled,operation
+30,to,null
+31,room,condition
+32,temperature,condition
